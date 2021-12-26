@@ -1,5 +1,6 @@
-# simple-programs
-beginner projects written in python
+# quizz-game
 
-This repository is for simple projects which are written in python.
-These projects in this repository can be coded by absoulte beginners. 
+a quizz game with questions related to ICT
+This simple program is written in python
+
+In the future, I'll be adding a GUI for this program
